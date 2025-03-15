@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akila Pramod</h1>
-<h3 align="center">Passionate Fullstack Developer from Sri Lanka</h3>
+<h3 align="center">Passionate Full-stack Developer from Sri Lanka</h3>
 
 - 📫 How to reach me **mdakilapramod@gmail.com**
 

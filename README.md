@@ -15,8 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilapramod&" alt="akilapramod" /></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/main/dist/github-snake.svg" />
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/your-username/your-repo/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake.svg" />
 </picture>
-

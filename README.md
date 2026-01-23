@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akila Pramod 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0CE82B&vCenter=true&width=600&lines=Computer+Science+Student;Open+Source+Contributor;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0CE82B&vCenter=true&width=600&lines=Computer+Science+Student;DevOps+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/wave.gif" width="30px" height="30px">
@@ -14,7 +14,7 @@
 
 > 🎓 Computer Science student at **Informatics Institute of Technology (IIT)**  
 > 💻 **Software Engineering** enthusiast focused on building scalable, production-ready applications  
-> ♾️ **DevOps Engineer** experienced in automating reliable CI/CD pipelines and cloud orchestration  
+> ♾️ **DevOps/SWE Intern** experienced in automating reliable CI/CD pipelines and cloud orchestration  
 > 🌟 Committed to continuous learning in fast-evolving tech environments  
 
 I bridge the gap between development and operations, designing efficient backend systems while ensuring they are deployed securely and reliably. My passion lies in **cloud-native architectures**, **automation**, and utilizing **AI** to solve real-world problems.
@@ -118,16 +118,7 @@ I bridge the gap between development and operations, designing efficient backend
 
 ---
 
-## 🐍 Contribution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akilapramod/akilapramod/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
----
 
 ## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=akilapramod&limit=5&theme=github_dark&combine_all_yearly_contributions=true)

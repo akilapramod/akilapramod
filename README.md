@@ -12,10 +12,12 @@
 
 ## 🧑‍💻 About Me
 
-> 🎓 Computer Science student passionate about **open-source development** and cutting-edge technologies  
-> 🌱 Currently exploring **cloud-native architectures** and **AI/ML applications**  
-> 🚀 Building scalable solutions across **full-stack development**  
-> 🤝 Open to collaborating on **innovative projects** and contributing to the tech community
+> 🎓 Computer Science student at **Informatics Institute of Technology (IIT)**  
+> 💻 **Software Engineering** enthusiast focused on building scalable, production-ready applications  
+> ♾️ **DevOps Engineer** experienced in automating reliable CI/CD pipelines and cloud orchestration  
+> 🌟 Committed to continuous learning in fast-evolving tech environments  
+
+I bridge the gap between development and operations, designing efficient backend systems while ensuring they are deployed securely and reliably. My passion lies in **cloud-native architectures**, **automation**, and utilizing **AI** to solve real-world problems.
 
 ---
 
@@ -25,7 +27,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-d-a-pramod)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akila.pramod00)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akilapramod@proton.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdakilapramod@gmail.com)
 
 </div>
 
@@ -33,75 +35,65 @@
 
 ## 🛠️ Technology Stack
 
-### 🔧 DevOps & Infrastructure
+### 💻 Software Engineering (SWE)
+
+**Backend Development**
 <div align="center">
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-### ⚙️ Backend Development
+**Frontend & Mobile**
 <div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
-### 🎨 Frontend Development
+**Databases & ORM**
 <div align="center">
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-### 📱 Mobile Development
+**AI & Machine Learning**
 <div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
-### 🗄️ Databases
+### ♾️ DevOps & Cloud
+
+**CI/CD & Automation**
 <div align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
-### 🤖 AI/ML & Data Science
+**Containerization & Infrastructure**
 <div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_RHEL-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
 </div>
 
-### 🎨 Design & Creative Tools
+**Cloud Platforms & Monitoring**
 <div align="center">
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ---
@@ -142,63 +134,7 @@
 
 ---
 
-## 💼 What I'm Currently Working On
 
-```javascript
-const currentFocus = {
-    learning: [
-        "Microservices Architecture",
-        "Kubernetes & Container Orchestration", 
-        "Machine Learning & AI Integration",
-        "Cloud-Native Development"
-    ],
-    building: [
-        "Full-Stack Web Applications",
-        "Mobile Apps with Flutter",
-        "Open Source Contributions",
-        "DevOps Automation Tools"
-    ],
-    collaborating: [
-        "Open Source Projects",
-        "University Research Projects",
-        "Community Tech Initiatives"
-    ]
-};
-```
-
----
-
-## 🎯 2024 Goals
-
-- [ ] 🚀 Contribute to **50+ open source projects**
-- [ ] 📚 Master **cloud architecture patterns**
-- [ ] 🏗️ Build **3 production-ready applications**
-- [ ] 🤝 Mentor **junior developers** in the community
-- [ ] 📝 Write **technical blog posts** sharing knowledge
-- [ ] 🎓 Complete **advanced certifications** in cloud platforms
-
----
-
-## 💡 Fun Facts
-
-```python
-class AkilaPramod:
-    def __init__(self):
-        self.name = "Akila Pramod"
-        self.role = "Computer Science Student"
-        self.language_spoken = ["English", "Sinhala"]
-        self.code = ["Python", "Kotlin", "JavaScript", "SQL"]
-        self.tools = ["Docker", "Git", "Linux", "VS Code"]
-        self.architecture = ["Microservices", "MVC", "REST APIs"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = AkilaPramod()
-me.say_hi()
-```
-
----
 
 ## 📈 Visitor Count
 <div align="center">
@@ -216,17 +152,7 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things+together!;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
-
-**Show some ❤️ by starring repositories you find interesting!**
-
-</div>
-
----
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/akilapramod">akilapramod</a></i>

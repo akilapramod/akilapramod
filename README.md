@@ -1,30 +1,11 @@
-# 👋 Hi, I'm Akila Pramod 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0CE82B&vCenter=true&width=600&lines=Computer+Science+Student;DevOps+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/wave.gif" width="30px" height="30px">
-  <strong>Welcome to my GitHub profile!</strong>
-  <img src="https://github.com/user-attachments/assets/wave.gif" width="30px" height="30px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Akila%20Pramod&fontSize=42&fontColor=00d4aa&fontAlignY=38&desc=CS%20Student%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=16&descColor=8892b0" />
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-> 🎓 Computer Science student at **Informatics Institute of Technology (IIT)**  
-> 💻 **Software Engineering** enthusiast focused on building scalable, production-ready applications  
-> ♾️ **DevOps/SWE Intern** experienced in automating reliable CI/CD pipelines and cloud orchestration  
-> 🌟 Committed to continuous learning in fast-evolving tech environments  
-
-I bridge the gap between development and operations, designing efficient backend systems while ensuring they are deployed securely and reliably. My passion lies in **cloud-native architectures**, **automation**, and utilizing **AI** to solve real-world problems.
-
----
-
-## 🌐 Connect With Me
-
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=building+a+coffee+shop%2C+one+microservice+at+a+time;proxmox+homelab+%2B+self-hosted+AI+on+telegram;open+to+internships+%26+collaborations;always+in+the+middle+of+something)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-d-a-pramod)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akila.pramod00)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdakilapramod@gmail.com)
@@ -33,50 +14,63 @@ I bridge the gap between development and operations, designing efficient backend
 
 ---
 
-## 🛠️ Technology Stack
+## what I'm up to
 
-### 💻 Software Engineering (SWE)
+Right now I'm building a **microservices platform for a coffee shop** — not because the world needs another coffee app, but because it's the perfect sandbox to understand how distributed systems actually behave. I'm using **NestJS** for the services and the plan is to integrate the full stack: CI/CD, containerization, orchestration, observability — the works. It's a living project, and the ops side is as much the point as the code.
 
-**Backend Development**
-<div align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
-
-**Databases & ORM**
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</div>
-
-### ♾️ DevOps & Cloud
-
-**CI/CD & Automation**
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
-
-**Containerization & Infrastructure**
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_RHEL-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
-</div>
-
-**Cloud Platforms & Monitoring**
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
+On the side, I'm picking up **Go** — slowly but steadily.
 
 ---
 
-## 📊 GitHub Analytics
+## the home lab 🖥️
+
+I run a small home lab on a single **Proxmox** node — VMs and containers where I experiment with whatever I'm curious about. It's where a lot of my understanding of infrastructure actually comes from, as opposed to just reading about it.
+
+Most recently I set up **OpenClaw**, deployed on my local network, with a **Telegram bot** as the interface. Being able to interact with a self-hosted AI through Telegram on my own infra is the kind of thing that makes the hobby worth it.
+
+---
+
+## tools I actually use
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## currently open to
+
+- 🤝 **Internships** — DevOps, backend, or full-stack
+- 🛠️ **Collaborations** — if you're building something interesting, let's talk
+- 🌍 **Open source contributions** — always looking for good projects to contribute to
+
+If any of that fits, shoot me an [email](mailto:mdakilapramod@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/m-d-a-pramod).
+
+---
+
+## github stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akilapramod&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -84,45 +78,5 @@ I bridge the gap between development and operations, designing efficient backend
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilapramod&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akilapramod&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-
-
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=akilapramod&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-
-
-
-## 📈 Visitor Count
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/akilapramod/count.svg)
-
-</div>
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/akilapramod">akilapramod</a></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
 </div>

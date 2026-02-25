@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Akila%20Pramod&fontSize=42&fontColor=00d4aa&fontAlignY=38&desc=CS%20Student%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=16&descColor=8892b0" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:00d4aa&height=140&section=header" />
 
 <div align="center">
+
+# hey, I'm Akila 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=building+a+coffee+shop%2C+one+microservice+at+a+time;proxmox+homelab+%2B+self-hosted+AI+on+telegram;open+to+internships+%26+collaborations;always+in+the+middle+of+something)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-d-a-pramod)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akila.pramod00)
@@ -77,6 +79,6 @@ If any of that fits, shoot me an [email](mailto:mdakilapramod@gmail.com) or conn
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilapramod&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
-</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0f3460&height=100&section=footer" />

@@ -33,4 +33,4 @@ Single-node Proxmox cluster where I test infra ideas, including a self-hosted AI
 📝 [What Migrating to Spot Instances Taught Me About Cloud Cost Optimization](https://medium.com/@mdakilapramod/what-migrating-to-spot-instances-taught-me-about-cloud-cost-optimization-6c46302d8f84)
 
 ## Open to
-DevOps, SRE and cloud engineering roles in Sri Lanka and the UK.
+DevOps, SRE and cloud engineering roles in Sri Lanka and remote.

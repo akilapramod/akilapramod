@@ -10,13 +10,13 @@ Colombo, Sri Lanka · [LinkedIn](https://linkedin.com/in/m-d-a-pramod) · [Email
 ---
 
 ## What I do
-I secure and automate multi-account AWS infrastructure at **Emojot**: Terraform, ECS, CI/CD, and security remediation.
+I secure and automate multi-account AWS infrastructure for a production SaaS platform, using Terraform, ECS, and CI/CD.
 
 - 🔐 Remediated Critical/High Security Hub findings across Dev, Staging and Prod accounts
 - 🔒 Replaced public SQS policies with least-privilege access without breaking production workflows
 - 💸 Cut Dev EC2 costs by up to ~65% with an ECS Spot + On-Demand capacity strategy
 - 🚀 Restored a dormant staging environment so Dev and QA can ship independently
-- ⚡ Took eChannelling.com deployments from days of manual work to ~7 minutes (Sri Lanka Telecom)
+- ⚡ Took eChannelling.com deployments from days of manual work to ~7 minutes
 
 ## Stack
 **Cloud:** AWS (ECS, EC2, S3, SQS, SNS, Lambda, VPC, IAM, CloudWatch), GCP
